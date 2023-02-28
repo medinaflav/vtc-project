@@ -1,0 +1,51 @@
+body {
+  background-color: rgb(77, 77, 77);
+}
+
+.App {
+  text-align: center;
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+  background: rgb(255, 255, 255);
+  height: 100vh;
+}
+
+form {
+  width: 450px;
+  margin: 0 auto;
+}
+
+form input {
+  margin-top: 3%;
+}
+
+form button {
+  width: 450px;
+  margin-top: 20px;
+}
+
+.card{
+  box-shadow: none;
+}
+.card-content{
+  text-align: left;
+}
+
+.card-content span{
+  font-weight: bold;
+}
+
+.image img{
+  border-radius: 50%;
+}
+
+.media-content{
+  margin-top: 4%;
+}
+
+.com{
+  text-align: left;
+}
